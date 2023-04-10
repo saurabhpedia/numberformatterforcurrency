@@ -1,0 +1,26 @@
+{
+  "name": "numberformatercurrency",
+  "version": "1.0.0",
+  "description": "JavaScript function that can convert a number to its equivalent value in thousands (K), millions (M), or trillions (T)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhpedia/numberformatterforcurrency.git"
+  },
+  "keywords": [
+    "number",
+    "fomater",
+    "number",
+    "fomater",
+    "currency"
+  ],
+  "author": "Saurabh Raman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saurabhpedia/numberformatterforcurrency/issues"
+  },
+  "homepage": "https://github.com/saurabhpedia/numberformatterforcurrency#readme"
+}
